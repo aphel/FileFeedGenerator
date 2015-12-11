@@ -1,6 +1,9 @@
 # FileFeedGenerator Notes
 I use this file to document how different features and functions are implemented and for a little bit of brainstorming.
 
+## Build Script
+
+
 ## Function (Cmdlet) Breakdown
 There is virtually no code has been written when I am writing this section. I am just trying to work out what the skeleton of the Powershell module (first iteration) would be like.
 
